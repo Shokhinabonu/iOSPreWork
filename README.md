@@ -3,7 +3,7 @@ App Description
 TODO:// Add app description
 
 App Walk-though
- ios.gif
+https://github.com/Shokhinabonu/iOSPreWork/blob/main/ios.gif
  
 
 Required Features
